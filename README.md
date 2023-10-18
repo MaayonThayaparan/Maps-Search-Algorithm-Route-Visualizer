@@ -77,5 +77,9 @@
      - GraphLoader.createIntesectionsFile("data/maps/YOURFILE.map",
                                        "data/intersections/YOURFILE.intersections");
 7. Change YOURFILE to be the name of the file you just saved from the front end and then run this class.  You will see your .intersections file appear in the data/intersections directory.  Again, from Eclipse you will need to right-click on the data directory and select Refresh.
-8. You now have a custom map data file that you can use in the program. 
+8. You now have a custom map data file that you can use in the program.
+
+## Future Optimizations
+1. Created an optimized A* search which takes into consideration date/time to determine if rush hour where residential roads would be considered of lower "distance". Add this search function to the GUI in addition to date/time fields.
+2. Add additional extensions to each of the search functions (ex. look at speed limits, time of day, etc.)
 
