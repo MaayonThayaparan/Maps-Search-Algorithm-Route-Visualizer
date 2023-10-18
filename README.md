@@ -6,7 +6,7 @@
      - Dijkstra's Algorithm
      - A* Search
 - Option to visualize search algorithm exists in application to see how route was determined by search algorithm.
-- Map data is visualzied using GoogleMaps API. 
+- Map data is visualized using GoogleMaps API. 
 
 ## Getting Started 
 
