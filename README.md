@@ -39,7 +39,7 @@
 5. In the 'Package Explorer' click 'Import Projects'
 6. Under 'Git' select 'Projects from Git (with smart import)
 7. Select 'Clone URl'
-8. Input URL: https://github.com/MaayonThayaparan/Text-Editor-and-Generator.git
+8. Input URL: https://github.com/MaayonThayaparan/Maps-Search-Algorithm-Route-Visualizer.git
 9. Click 'Next' then 'Next' and then 'Finish'
 10. Select the root project folder in the 'Package Explorer' then click 'Project => Properties => Java Compiler'
 11. Select 'Enable project specific settings'
